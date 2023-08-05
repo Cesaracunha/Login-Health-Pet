@@ -1,0 +1,32 @@
+header{
+    background-color: #ab8262;
+    height: 50px;
+    padding: 50px;
+    
+    
+}
+
+body{
+    background: blanchedalmond;
+    height: 10px;
+    margin-top: 10px;
+    
+
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    width: 1800px;
+    justify-content:center;
+    text-decoration: none;
+    text-shadow: 4px 2px blue;
+    
+}
+.imagem{
+   display:flex;
+    
+    width: 50%;
+    height: 400px;
+
+    justify-items: center;
+}

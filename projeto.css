@@ -1,32 +1,32 @@
-header{
-    background-color: #ab8262;
-    height: 50px;
-    padding: 50px;
-    
-    
-}
-
 body{
-    background: blanchedalmond;
-    height: 10px;
-    margin-top: 10px;
-    
-
+    background-image:url(img/Dog-look-up-black-background_1920x1200.jpg);
+    margin: auto;
+    align-items: center;
+    margin-left: 35%;
 }
-h1{
-    color: aliceblue;
-    text-align: center;
-    width: 1800px;
+.container{
+    color: #f3eaeaef;
+    text-transform: none;
+    text-decoration: 1px;
+    margin: 0 auto;
+    display: flex;
+    border: 1px solid rgb(15, 180, 185); 
+    margin: 2px;
+    margin-left: 65px;
     justify-content:center;
-    text-decoration: none;
-    text-shadow: 4px 2px blue;
-    
+    width: 300px;
+    height: 355x;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: aqua;
+    backdrop-filter:backdrop-filter: drop-shadow(4px 4px 10px blue);
 }
-.imagem{
-   display:flex;
-    
-    width: 50%;
-    height: 400px;
+img{
+    margin: 0 auto;
+    width: 250px;
+    margin-left: 100px;
+}
+form{
+    backdrop-filter: drop-shadow(4px 4px 10px blue);
+}
 
-    justify-items: center;
-}
+
